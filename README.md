@@ -1,2 +1,2 @@
 # binarySearch
-Compares linear v binary search of character index of a string. 
+Compares linear v binary search of the characters in a string. 
